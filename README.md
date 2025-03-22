@@ -5,11 +5,11 @@ Este projeto consiste na criação de um **chatbot especializado em vendas na Am
 
 ## Objetivo 🎯
 O objetivo deste projeto é permitir que sellers da Amazon:
-✅ **Consultem informações** sobre políticas e diretrizes do marketplace;
-✅ **Otimizem suas listagens** (títulos, descrições e SEO);
-✅ **Melhorem estratégias de precificação e Buy Box**;
-✅ **Gerenciem pedidos, estoques e logística** de forma eficiente;
-✅ **Obtenham insights sobre melhores práticas** de vendas na Amazon.
+* Consultem informações sobre políticas e diretrizes do marketplace;
+* Otimizem suas listagens (títulos, descrições e SEO);
+* Melhorem estratégias de precificação e Buy Box;
+* Gerenciem pedidos, estoques e logística de forma eficiente;
+* Obtenham insights sobre melhores práticas de vendas na Amazon.
 
 ## Como Funciona? 🛠️
 1. **Carregamento de PDFs**: As políticas e guias da Amazon são extraídas automaticamente.
